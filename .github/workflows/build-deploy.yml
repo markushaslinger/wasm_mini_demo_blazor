@@ -22,7 +22,7 @@ jobs:
         uses: SteveSandersonMS/ghaction-rewrite-base-href@v1.1.0
         with:
             html_path: 'release/wwwroot/index.html'
-            base_href: '/mini_blazor_demo/'
+            base_href: '/wasm_mini_demo_blazor/'
       - name: Add .nojekyll file
         run: touch release/wwwroot/.nojekyll
       - name: Commit wwwroot to GitHub Pages
