@@ -24,7 +24,7 @@
       "Microsoft.Extensions.Primitives.wasm": "sha256-mcQXSXHMh3keiLlxsl3lepJs4yvUn4hv+kEt0Ho6PeE=",
       "Microsoft.JSInterop.wasm": "sha256-08Ewsx1opHVfK\/DMeVVZZi2bl2Kz8HHeSAlocsTd3hk=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-3M3bbxlwLZNSyJxat0Jq0gaZI7tiztzAUA+hkg0+4w8=",
-      "MiniBlazorDemo.wasm": "sha256-3yd58GYS9eBcz9bgGaGmOGGOf0ilqSeIjD\/kOGOFbQ0=",
+      "MiniBlazorDemo.wasm": "sha256-zvXzKapRHTK9iBnKhTHnaqi9Gs+RzeXdgTQzKB3JCls=",
       "System.Collections.Concurrent.wasm": "sha256-3uyAyq0ndAaayptW+tXhqwzf\/gHx+eiLGDNIwvVFwoY=",
       "System.Collections.wasm": "sha256-G5AGehpDdakB6dbTR\/NxdA6xb6IGv6vT+TRqjT8Gfhk=",
       "System.ComponentModel.wasm": "sha256-lHLxkm1v1dle1HwwXrqDZRZz91G79Z14c\/HqvjyPnAU=",
@@ -46,13 +46,13 @@
     "runtime": {
       "dotnet.js": "sha256-QX1+VeBm7AaOP\/NF5e4bvj6rlNg1lBC6J2F8Gs1L3Xg=",
       "dotnet.native.8.0.0-preview.6.23329.7.vxav16auw4.js": "sha256-ZT4wp2FcrPnjzW5cqnq3s68AAc15xsHqXF6FcRYytS4=",
-      "dotnet.native.wasm": "sha256-pcvQzboFTuakrivdxh\/FlZAWKKB90gohb\/mm9ihM198=",
+      "dotnet.native.wasm": "sha256-wHobc3yJ63g3UOp+8upWCr7Ifh+aR+B4U55dEbor4p0=",
       "dotnet.runtime.8.0.0-preview.6.23329.7.n7qpf8rdzb.js": "sha256-0JnFXPAuX0tKMQSCogbRmiRAQtz3fxCHNO71v0DMzZk="
     },
     "runtimeAssets": {
       "dotnet.native.wasm": {
         "behavior": "dotnetwasm",
-        "hash": "sha256-pcvQzboFTuakrivdxh\/FlZAWKKB90gohb\/mm9ihM198="
+        "hash": "sha256-wHobc3yJ63g3UOp+8upWCr7Ifh+aR+B4U55dEbor4p0="
       }
     },
     "satelliteResources": null
