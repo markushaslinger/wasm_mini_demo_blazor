@@ -21,7 +21,7 @@
 @code {
 
     // could also be placed in a Index.razor.cs code-behind file (partial class)
-    // to separate view from control (a little bit)
+    // to separate view from control
     
     private int _count;
     private ICollection<string>? _items;
@@ -29,7 +29,7 @@
     protected override void OnInitialized()
     {
         _count = 0;
-        _items = new List<string>();
+        _items = [];
     }
 
     private Task HandleBtnClick()
